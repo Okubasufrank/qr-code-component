@@ -4,7 +4,7 @@ padding: 50px;
 background-color: Light gray hsl(212, 45%, 89%);
 }
 
-.main{
+.container{
     width: 80%;
     padding: 20px;
     display: flex;
@@ -13,16 +13,8 @@ background-color: Light gray hsl(212, 45%, 89%);
     max-width: 500px;
     background-color: black;
 }
-img {
+
+container img {
     width: fit-content;
 }
-}
-.upper {
-    width: ;
-    height: 50%;
-}
 
-.lower{
-    background-color: aqua;
-    width: ;
-}
