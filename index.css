@@ -12,11 +12,22 @@ background-color: hsl(212, 45%, 89%);
     padding: 20px;
     max-width: 500px;
     height: 50%;
+    border-radius: 20px;
 }
 
 .container img{
     width: 100%;
     height: auto;
+    border-radius: 20px;
 }
 
+.content{
+    text-align: center;
+}
+
+.content p{
+    display: inline-block;
+    text-align: center;
+    margin: 0 10px;
+}
 
