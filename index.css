@@ -1,6 +1,28 @@
 body{
 font-family: url(https://fonts.google.com/specimen/Outfit);
-padding: 20px;
-background-color: Light gray: hsl(212, 45%, 89%);
+padding: 50px;
+background-color: Light gray hsl(212, 45%, 89%);
 }
 
+.main{
+    width: 80%;
+    padding: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background-color: black;
+}
+img {
+    width: fit-content;
+}
+}
+.upper {
+    width: ;
+    height: 50%;
+}
+
+.lower{
+    background-color: aqua;
+    width: ;
+}
