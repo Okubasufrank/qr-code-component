@@ -1,17 +1,22 @@
 body{
 font-family: url(https://fonts.google.com/specimen/Outfit);
 padding: 50px;
-background-color: Ligh-gray hsl(212, 45%, 89%);
+background-color: hsl(212, 45%, 89%);
 }
 
-.container{
-    width: 80%;
-    background-color: burlywood;
+.container {
+    width: 60%;
+    background-color: hsl(0, 0%, 100%);
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
     height: 50%;
+}
+
+.container img{
+    width: 100%;
+    height: auto;
 }
 
 
